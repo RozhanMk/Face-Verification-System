@@ -41,6 +41,7 @@ Now you can register faces and verify them!
 
 ## Resources
 https://www.kaggle.com/code/stoicstatic/face-recognition-siamese-w-triplet-loss
+
 https://github.com/Mitix-EPI/Face-Recognition-using-Siamese-Networks
 
 
